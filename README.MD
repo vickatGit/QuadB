@@ -48,6 +48,21 @@
 
 ### Server
 
+## Configuration
+
+Before running the application, make sure to set up your environment variables. Create a `.env` file in the `server` directory and add the following configurations:
+
+```env
+# PostgreSQL Database Configuration
+PGUSER=postgres
+PGHOST=localhost
+PGDATABASE=wazirx
+PGPASSWORD=vikas
+PGPORT=5432
+
+# Application Port
+PORT=5000
+
 1. Navigate to the server directory:
     ```bash
     cd server
