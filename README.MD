@@ -67,11 +67,18 @@
 
 ---
 
-## Usage
+## Images
 
-👉 Access the web application to view real-time data on the top 10 cryptocurrency results fetched from the Wazirx API.
+Here are some screenshots for your reference:
+### Web Page
 
----
+<img src="https://github.com/vickatGit/QuadB/assets/96293449/2e391ef2-7206-4e05-ba0d-b663c655a85a" alt="Server Snippet" width="600" height="300">
+<img src="https://github.com/vickatGit/QuadB/assets/96293449/c343004e-0336-43c7-beaf-d78fbacffecd" alt="Server Snippet" width="600" height="300">
+<img src="https://github.com/vickatGit/QuadB/assets/96293449/bba0a27a-acbc-4ab3-b919-3ab25041a0fb" alt="Server Snippet" width="600" height="300">
+
+### Express Route for Retrieving Data
+
+<img src="https://github.com/vickatGit/QuadB/assets/96293449/035b4d2e-a55f-4515-b740-a90d32507a34" alt="Server Snippet" width="600" height="300">
 
 ## Assignment Fulfillment
 
