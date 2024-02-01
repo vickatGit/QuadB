@@ -63,6 +63,8 @@ PGPORT=5432
 # Application Port
 PORT=5000
 
+```
+
 1. Navigate to the server directory:
     ```bash
     cd server
